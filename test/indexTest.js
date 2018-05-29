@@ -174,4 +174,3 @@ describe('relating a driver to a trip and a passenger', function() {
     })
   })
 })
-
